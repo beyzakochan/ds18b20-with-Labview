@@ -58,7 +58,12 @@ void loop() {
 ```
 ## Block Diagram Design By LABVIEW
 
-![2022-06-05 (1)](https://user-images.githubusercontent.com/79100777/172053875-7be670e0-4203-4668-94df-baec7b901bd8.png)
+![2022-06-05 (3)](https://user-images.githubusercontent.com/79100777/172061309-ff0c432a-48dc-42bc-9dad-f0db7d28a0f1.png)
+
 
 ## Front Panel Design By LABVIEW
+
+
+![2022-06-05 (6)](https://user-images.githubusercontent.com/79100777/172061415-a824270f-181b-4f26-9f79-7a5818702e4f.png)
+
 
