@@ -34,7 +34,7 @@ This sensor was chosen because the sensor's accuracy and operating temperature r
 
 ![Image datasheet](https://fluxworkshop.info/images/blog/lets_workshop_BIAA100074_DS18b20%20Temperature%20Probe_UNO%20Wiring%20Example_Fritzing%20Project_bb.png)
 
-```arduino
+```sh
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
