@@ -24,7 +24,7 @@ In this project, I designed a simple and effective pot. Having only one pot will
 This sensor was chosen because the sensor's accuracy and operating temperature range is sufficient for a baby food.
 
 
-## ARDUINO CONNECTION
+## Arduino Connection
 
 ![WhatsApp Image 2022-06-05 at 16 06 42](https://user-images.githubusercontent.com/79100777/172051889-5243db91-e275-4a67-8cbc-2fb07a623303.jpeg)
 
@@ -52,9 +52,9 @@ void loop() {
   
 }
 ```
-## BLOCK DIAGRAM DESIGN BY LABVIEW
+## Block Diagram Design By LABVIEW
 
 ![2022-06-05 (1)](https://user-images.githubusercontent.com/79100777/172053875-7be670e0-4203-4668-94df-baec7b901bd8.png)
 
-## FRONT PANEL DESIGN BY LABVIEW
+## Front Panel Design By LABVIEW
 
